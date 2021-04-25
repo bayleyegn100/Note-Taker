@@ -27,6 +27,7 @@ You do not have a limitation to use this application. As you see the license sec
 ## Usage 
 
 This application is working properly. You can see a deployed live URL and a few screen shots for demonstration under test instruction section.
+![image](https://user-images.githubusercontent.com/75077909/115978200-a4fe2900-a532-11eb-8865-f4c6a047f2c0.png)
 
 ## Guidelines: 
 
@@ -37,6 +38,8 @@ Try to read and watch relevant materials, tutorials and practice, practice, ....
 I checked the application for many times, and it works well. If you want you can click on the below link. 
 
 You can click on the following live URL:https://vast-falls-81756.herokuapp.com/
+![image](https://user-images.githubusercontent.com/75077909/115978300-25bd2500-a533-11eb-863d-a68e64146f05.png)
+
 
 ## Lesson-learned
 
